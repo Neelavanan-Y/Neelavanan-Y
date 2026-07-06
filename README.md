@@ -107,10 +107,8 @@ Autonomous line following robot using IR sensors and PID-based control.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Neelavanan-Y&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Neelavanan-Y&theme=github_dark&utcOffset=5.5"/>
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Neelavanan-Y&theme=github_dark&utcOffset=5.5"/>
 </p>
-
 
 ## 📈 Contribution Graph
 
