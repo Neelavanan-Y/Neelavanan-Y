@@ -12,32 +12,34 @@ AI Developer | Robotics Enthusiast | Embedded Systems Engineer
 
 ## 🚀 About Me
 
-🤖 AI & Robotics Enthusiast
+🤖 Passionate about Artificial Intelligence, Robotics and Embedded Systems
 
-⚡ ESP32 Embedded Developer
+⚡ Building intelligent hardware and software solutions
 
-🌍 Building **Aetheris** – AI-powered Environmental Intelligence Platform
+🌍 Developing **Aetheris** — AI-powered Geospatial Environmental Intelligence Platform
 
-🦾 Working on an ESP32 Quadruped Robot
+🦾 Building an ESP32-based Quadruped Robot
 
-🌱 Learning Computer Vision, Machine Learning and ROS
+🌱 Currently learning Machine Learning, Computer Vision, ROS and FastAPI
+
+💡 Interested in AI, IoT, Autonomous Systems and Geospatial Intelligence
 
 ---
 
 ## 🌐 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="mailto:neelavanancoder@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Neelavanan-Y">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/neelavanan-y-635281373">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -48,83 +50,190 @@ AI Developer | Robotics Enthusiast | Embedded Systems Engineer
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+<p>
 
-### AI & Robotics
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript"/>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+</p>
+
+### Web Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css"/>
+
+</p>
+
+### AI & Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+</p>
+
+**Learning**
+
+- OpenCV
+- Scikit-Learn
+- NumPy
+- Pandas
+
+---
+
+### Embedded Systems
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=arduino"/>
+
+</p>
+
+- ESP32
+- ESP-IDF
+- MQTT
+- I2C
+- SPI
+- PCA9685
+- Servo Motors
+
+---
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=firebase"/>
+
+</p>
+
+- FastAPI
+- SQLite
+
+---
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+
+</p>
+
+Also use
+
+- PlatformIO
+- Arduino IDE
+- KiCad
 
 ---
 
-## 🔥 Featured Projects
+# 🔥 Featured Projects
 
-### 🌍 Aetheris
+## 🌍 Aetheris
 
-AI-powered Geospatial Environmental Intelligence Platform using FastAPI, Machine Learning and IoT.
+AI-powered Geospatial Environmental Intelligence Platform.
 
-### 🤖 Quadruped Robot
+### Features
 
-ESP32-based autonomous quadruped robot with 12 servo motors and wireless control.
-
-### 🚁 Gesture Controlled Robot
-
-Embedded systems project for wireless gesture-based robot navigation.
-
-### 🚗 Line Following Robot
-
-Autonomous robot capable of real-time path tracking.
+- AI-based Environmental Monitoring
+- Heat Index Prediction
+- AQI Forecasting
+- Interactive Maps
+- IoT Sensor Integration
+- Smart Alerts
+- Explainable AI
 
 ---
 
-## 📊 GitHub Stats
+## 🤖 Quadruped Robot
+
+ESP32-powered intelligent quadruped robot.
+
+### Features
+
+- 12 Servo Motors
+- PCA9685 Driver
+- WiFi Control
+- Stable Walking
+- Modular Electronics
+- Expandable Architecture
+
+---
+
+## 🚁 Gesture Controlled Robot
+
+Wireless gesture-controlled robot using embedded systems.
+
+---
+
+## 🚗 Line Following Robot
+
+Autonomous line-following robot with real-time path tracking.
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Neelavanan-Y&show_icons=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Neelavanan-Y&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Neelavanan-Y&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neelavanan-Y&theme=github-dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelavanan-Y&layout=compact&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelavanan-Y&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neelavanan-Y&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neelavanan-Y&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-## 👀 Profile Views
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Neelavanan-Y&label=Profile+Views"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Neelavanan-Y&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
+
+</p>
+
+---
+
+# 🎯 Current Goals
+
+- 🚀 Build Aetheris into a complete AI platform
+- 🤖 Complete Quadruped Robot
+- 🧠 Master Computer Vision
+- ⚡ Learn ROS
+- 🌍 Build AI + Robotics Projects
+- 🏆 Participate in Hackathons
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Neelavanan-Y&style=for-the-badge&color=0e75b6"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<i>"Building intelligent systems that bridge AI, Robotics and the Physical World."</i>
 
 </p>
