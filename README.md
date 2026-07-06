@@ -120,16 +120,6 @@ Autonomous line following robot using IR sensors and PID-based control.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Neelavanan-Y&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
 ## 👀 Profile Views
 
 <p align="center">
