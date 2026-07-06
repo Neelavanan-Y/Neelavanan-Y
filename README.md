@@ -1,16 +1,35 @@
-## Hi there 👋
+══════════════════════════════════════════════
 
-<!--
-**Neelavanan-Y/Neelavanan-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+              CUSTOM BANNER
 
-Here are some ideas to get you started:
+             NEELAVANAN Y
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      AI • Robotics • Embedded Systems
+
+══════════════════════════════════════════════
+
+Typing Animation
+
+Quick Badges
+
+Whoami
+
+Tech Stack
+
+Engineering Domains
+
+Featured Projects
+
+Engineering Journey
+
+Current Focus
+
+GitHub Analytics
+
+Contribution Snake
+
+Achievements
+
+Connect
+
+══════════════════════════════════════════════
