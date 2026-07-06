@@ -5,7 +5,7 @@ AI Developer | Robotics Enthusiast | Embedded Systems Engineer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Robotics+Developer;ESP32+Developer;Building+Aetheris;Computer+Vision+Learner;Always+Building+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Robotics+Developer;ESP32+Developer;Building+Aetheris;Computer+Vision+Learner;Always+Building"/>
 </p>
 
 ---
@@ -103,21 +103,12 @@ Autonomous line following robot using IR sensors and PID-based control.
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Neelavanan-Y&show_icons=true&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Neelavanan-Y&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Neelavanan-Y&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Neelavanan-Y&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelavanan-Y&layout=compact&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelavanan-Y&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
