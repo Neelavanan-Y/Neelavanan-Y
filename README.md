@@ -1,403 +1,130 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Neelavanan Y</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&customColorList=24,12,30,2&text=Neelavanan%20Y&fontColor=E6EDF3&fontSize=55&animation=fadeIn&desc=AI%20•%20Robotics%20•%20Embedded%20Systems&descAlignY=68"/>
-
-# 👋 Hi, I'm Neelavanan Y
-
-### Building Intelligent Systems with AI, Robotics & Embedded Engineering
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=$+whoami;$+Building+Aetheris;$+Robotics+Club+Member;$+ESP32+Developer;$+Learning+Computer+Vision;$+Always+Building+🚀"/>
+<h3 align="center">
+AI Developer | Robotics Enthusiast | Embedded Systems Engineer
+</h3>
 
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Building+Aetheris;AI+%26+Robotics+Developer;ESP32+Developer;Computer+Vision+Learner;Always+Building+🚀"/>
+</p>
+
+---
+
+## 🚀 About Me
+
+🤖 AI & Robotics Enthusiast
+
+⚡ ESP32 Embedded Developer
+
+🌍 Building **Aetheris** – AI-powered Environmental Intelligence Platform
+
+🦾 Working on an ESP32 Quadruped Robot
+
+🌱 Learning Computer Vision, Machine Learning and ROS
+
+---
+
+## 🌐 Connect With Me
+
+<p>
 
 <a href="mailto:neelavanancoder@gmail.com">
-<img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=00D9FF">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/Neelavanan-Y">
-<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=00D9FF">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/neelavanan-y-635281373">
-<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=00D9FF">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=00D9FF">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=Neelavanan-Y&style=for-the-badge&color=00D9FF"/>
+## 💻 Tech Stack
 
-<img src="https://img.shields.io/github/followers/Neelavanan-Y?style=for-the-badge&color=00D9FF"/>
+### Languages
 
-<img src="https://img.shields.io/github/stars/Neelavanan-Y?style=for-the-badge&color=00D9FF"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
-</div>
+### AI & Robotics
 
----
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
 
-# `> whoami`
+### Tools
 
-```yaml
-name: Neelavanan Y
-
-role:
-  B.Tech Computer Science Student
-
-university:
-  SASTRA Deemed University
-
-location:
-  Tamil Nadu, India
-
-interests:
-  - Artificial Intelligence
-  - Robotics
-  - Embedded Systems
-  - Internet of Things
-  - Geospatial Intelligence
-
-currently_building:
-  - Aetheris
-  - Quadruped Robot
-
-currently_learning:
-  - FastAPI
-  - Computer Vision
-  - Machine Learning
-  - ROS
-
-goal:
-  Build intelligent autonomous systems that bridge AI and robotics.
-```
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
 ---
 
-# `> engineering-domains`
+## 🔥 Featured Projects
 
-| Domain | Current Level | Current Focus |
-|---------|--------------|---------------|
-| 🤖 Robotics | ⭐⭐⭐⭐☆ | Quadruped Robot |
-| ⚡ Embedded Systems | ⭐⭐⭐⭐☆ | ESP32 Development |
-| 🧠 Artificial Intelligence | ⭐⭐⭐☆☆ | Aetheris |
-| 🌍 IoT | ⭐⭐⭐⭐☆ | Environmental Monitoring |
-| 👁 Computer Vision | ⭐⭐☆☆☆ | Learning |
-| 🌐 Backend | ⭐⭐⭐☆☆ | FastAPI APIs |
+### 🌍 Aetheris
 
----
+AI-powered Geospatial Environmental Intelligence Platform using FastAPI, Machine Learning and IoT.
 
-# `> tech-arsenal`
+### 🤖 Quadruped Robot
 
-## 💻 Languages
+ESP32-based autonomous quadruped robot with 12 servo motors and wireless control.
 
-<p>
+### 🚁 Gesture Controlled Robot
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js"/>
+Embedded systems project for wireless gesture-based robot navigation.
 
-</p>
+### 🚗 Line Following Robot
+
+Autonomous robot capable of real-time path tracking.
 
 ---
 
-## 🌐 Web
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css"/>
-
-</p>
-
----
-
-## ⚡ Embedded
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=arduino"/>
-
-</p>
-
-**Currently Working With**
-
-- ESP32
-- ESP-IDF
-- MQTT
-- I2C
-- SPI
-- PCA9685
-- Servo Motors
-
----
-
-## 🤖 Artificial Intelligence
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-</p>
-
-Learning
-
-- OpenCV
-- Scikit-Learn
-- NumPy
-- Pandas
-
----
-
-## 🗄 Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-</p>
-
-- FastAPI
-- SQLite
-
----
-
-## 🛠 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
-
-</p>
-
-Also
-
-- KiCad
-- Arduino IDE
-- PlatformIO
-
----
-
-# `> current-focus.yaml`
-
-```yaml
-learning:
-
-  - FastAPI
-
-  - Machine Learning
-
-  - Computer Vision
-
-  - ROS
-
-building:
-
-  - Aetheris
-  - Quadruped Robot
-  - GitHub Portfolio
-
-exploring:
-
-  - Embedded AI
-  - Autonomous Navigation
-  - Geospatial Intelligence
-
-open_to:
-
-  - Robotics Collaborations
-  - AI Projects
-  - Hackathons
-```
-
----
-
-# `> featured-projects`
-
-<details open>
-
-<summary>
-
-# 🌍 Aetheris
-
-</summary>
-
-AI-powered Geospatial Environmental Intelligence Platform.
-
-| Category | Details |
-|-----------|----------|
-| Purpose | Environmental Intelligence |
-| Backend | FastAPI |
-| Database | SQLite |
-| AI | Machine Learning |
-| Maps | Leaflet |
-| Data | IoT + Sensors |
-| Status | 🚧 In Development |
-
-### Features
-
-- Heat Index Prediction
-- AQI Monitoring
-- AI Forecasting
-- Interactive Dashboard
-- Smart Alerts
-- Explainable AI
-- Environmental Risk Analysis
-
-</details>
-
----
-
-<details>
-
-<summary>
-
-# 🤖 Quadruped Robot
-
-</summary>
-
-ESP32-powered intelligent quadruped robot.
-
-| Category | Details |
-|-----------|----------|
-| Controller | ESP32 |
-| Servos | 12 |
-| Driver | PCA9685 |
-| Communication | WiFi |
-| Status | 🚧 In Progress |
-
-### Features
-
-- Wireless Control
-- Stable Walking
-- Modular Electronics
-- Expandable Design
-
-</details>
-
----
-
-<details>
-
-<summary>
-
-# 🚁 Gesture Controlled Robot
-
-</summary>
-
-Gesture-controlled robot using embedded systems.
-
-</details>
-
----
-
-<details>
-
-<summary>
-
-# 🚗 Line Following Robot
-
-</summary>
-
-Autonomous line-following robot.
-
-</details>
-
----
-
-<details>
 ## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Neelavanan-Y&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FFA3&text_color=E6EDF3"/>
-
-<img height="180em"
-src="https://github-readme-streak-stats.herokuapp.com?user=Neelavanan-Y&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D9FF&ring=00FFA3&fire=00FFA3&currStreakLabel=00D9FF"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Neelavanan-Y&show_icons=true&theme=github_dark"/>
 
 </p>
+
 <p align="center">
 
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelavanan-Y&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neelavanan-Y&theme=github-dark"/>
 
 </p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelavanan-Y&layout=compact&theme=github_dark"/>
+
+</p>
+
+---
 
 ## 📈 Contribution Graph
 
-[![Neelavanan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neelavanan-Y&theme=github-dark&bg_color=0D1117&color=00D9FF&line=00FFA3&point=FFFFFF&area=true&hide_border=true)](https://github.com/Neelavanan-Y)
-
-## 🏆 GitHub Trophies
-
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Neelavanan-Y&theme=algolia&no-frame=true&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neelavanan-Y&theme=github-dark"/>
 
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Neelavanan-Y/Neelavanan-Y/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-## 📋 Profile Summary
-
-<p align="center">
-
-<img width="100%"
-
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neelavanan-Y&theme=github_dark"/>
-
-</p>
-
-
-<summary>
-
-# 💻 LeetCode Journey
-
-</summary>
-
-Documenting algorithms and problem-solving practice.
-
-</details>
-
-<p align="center">
-
-<img
-
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neelavanan-Y&theme=github_dark"/>
-
-<img
-
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Neelavanan-Y&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img
-
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Neelavanan-Y&theme=github_dark"/>
-
-<img
-
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Neelavanan-Y&theme=github_dark"/>
-
-</p>
+---
 
 ## 👀 Profile Views
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Neelavanan-Y&style=for-the-badge&color=00D9FF"/>
+<img src="https://komarev.com/ghpvc/?username=Neelavanan-Y&label=Profile+Views"/>
 
 </p>
