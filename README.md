@@ -781,3 +781,801 @@ Sunday      ▓▓▓▓▓▓▓▓▓▓  Learning
 <!-- ========================================================= -->
 <!--                    END OF README                          -->
 <!-- ========================================================= -->
+
+<!-- ========================================================= -->
+<!--                     PART 4                                -->
+<!-- ========================================================= -->
+
+# 🚀 Featured Technologies
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+### Artificial Intelligence
+
+Machine Learning
+
+Deep Learning
+
+Neural Networks
+
+Computer Vision
+
+OpenCV
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://skillicons.dev/icons?i=arduino"/>
+
+### Robotics
+
+ESP32
+
+ESP-IDF
+
+ROS
+
+Motion Planning
+
+Embedded AI
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://skillicons.dev/icons?i=firebase"/>
+
+### Backend
+
+FastAPI
+
+SQLite
+
+REST APIs
+
+IoT Integration
+
+Cloud Deployment
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 📂 Project Showcase
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🌍 Aetheris</h3>
+
+<p align="center">
+
+AI-powered Environmental Intelligence Platform.
+
+✔ Heat Index Prediction
+
+✔ AQI Forecasting
+
+✔ IoT Integration
+
+✔ Explainable AI
+
+✔ GIS Dashboard
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🤖 Quadruped Robot</h3>
+
+<p align="center">
+
+ESP32 Autonomous Robot
+
+✔ 12 Servo Motors
+
+✔ PCA9685
+
+✔ WiFi Control
+
+✔ Modular Architecture
+
+✔ Future ROS Support
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🚁 Gesture Robot</h3>
+
+<p align="center">
+
+Wireless Gesture Control
+
+✔ MPU6050
+
+✔ ESP32
+
+✔ Low Latency
+
+✔ Motion Detection
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🚗 Line Following Robot</h3>
+
+<p align="center">
+
+Autonomous Navigation
+
+✔ PID Control
+
+✔ IR Sensors
+
+✔ Fast Response
+
+✔ Stable Tracking
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# ⚡ Tech Ecosystem
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://skillicons.dev/icons?i=opencv"/>
+
+<img src="https://skillicons.dev/icons?i=arduino"/>
+
+<img src="https://skillicons.dev/icons?i=firebase"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</div>
+
+---
+
+# 🎯 What I'm Working On
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌍 Aetheris
+
+███████████████████████░░ 95%
+
+🤖 Quadruped Robot
+
+███████████████░░░░░░░░░ 70%
+
+🧠 Machine Learning
+
+████████████░░░░░░░░░░░░ 55%
+
+👁 Computer Vision
+
+██████████░░░░░░░░░░░░░░ 45%
+
+⚙ ROS
+
+██████░░░░░░░░░░░░░░░░░░ 30%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+# 🌟 Fun Facts
+
+```yaml
+favorite_language: Python
+
+favorite_board: ESP32
+
+favorite_editor: VS Code
+
+favorite_field:
+  Artificial Intelligence
+
+currently_obsessed_with:
+  Robotics
+
+dream:
+  Build Intelligent Autonomous Robots
+
+motto:
+  Learn • Build • Repeat
+```
+
+---
+
+# ☕ Daily Workflow
+
+```text
+
+        ☕ Coffee
+
+             │
+
+             ▼
+
+      📖 Learn Something
+
+             │
+
+             ▼
+
+      💻 Write Code
+
+             │
+
+             ▼
+
+      🐞 Debug
+
+             │
+
+             ▼
+
+      🚀 Deploy
+
+             │
+
+             ▼
+
+      🔁 Repeat
+
+```
+
+---
+
+# 📖 Current Learning Path
+
+```text
+
+Python
+
+██████████████████████
+
+Embedded Systems
+
+████████████████████
+
+Artificial Intelligence
+
+██████████████████
+
+Computer Vision
+
+██████████████
+
+ROS
+
+████████
+
+Deep Learning
+
+██████████
+
+```
+
+---
+
+# 🤝 Looking To Collaborate On
+
+<div align="center">
+
+🧠 Artificial Intelligence
+
+🤖 Robotics
+
+⚡ Embedded Systems
+
+🌍 Computer Vision
+
+📡 IoT Projects
+
+🚀 Open Source
+
+</div>
+
+---
+
+# 💡 Philosophy
+
+> "Technology should not only automate tasks —
+> it should make intelligent decisions that improve lives."
+
+---
+
+<div align="center">
+
+## ⭐ If you like my work, consider giving a ⭐ to my repositories!
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                     PART 5                                -->
+<!-- ========================================================= -->
+
+# 🌌 AI • Robotics • Embedded Ecosystem
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+## 🤖
+
+### Artificial Intelligence
+
+Machine Learning
+
+Deep Learning
+
+Computer Vision
+
+OpenCV
+
+TensorFlow
+
+</td>
+
+<td align="center" width="25%">
+
+## ⚡
+
+### Embedded
+
+ESP32
+
+ESP-IDF
+
+Arduino
+
+MQTT
+
+I2C
+
+SPI
+
+</td>
+
+<td align="center" width="25%">
+
+## 🦿
+
+### Robotics
+
+Quadruped
+
+ROS
+
+Motion Planning
+
+Wireless Control
+
+Servo Control
+
+Automation
+
+</td>
+
+<td align="center" width="25%">
+
+## 🌍
+
+### Backend
+
+FastAPI
+
+SQLite
+
+Firebase
+
+REST APIs
+
+IoT
+
+GIS
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🛰 Current Research Interests
+
+<div align="center">
+
+| 🧠 AI | 🤖 Robotics | 🌍 GIS | ⚡ Embedded |
+|:------:|:-----------:|:------:|:-----------:|
+| Machine Learning | Autonomous Robots | Environmental Intelligence | ESP32 |
+| Computer Vision | Motion Planning | Smart Cities | Embedded AI |
+| Explainable AI | SLAM | IoT Analytics | Edge Computing |
+| Neural Networks | Navigation | Remote Monitoring | RTOS |
+
+</div>
+
+---
+
+# 🛠 Development Timeline
+
+```text
+
+2025
+
+██████████████████████████
+
+Started Robotics
+
+Started Embedded Systems
+
+↓
+
+2026
+
+██████████████████████████
+
+Building Aetheris
+
+Computer Vision
+
+ROS
+
+AI Projects
+
+↓
+
+2027 Goal
+
+██████████████████████████
+
+AI Engineer
+
+Robotics Engineer
+
+Open Source Contributor
+
+```
+
+---
+
+# ⚙ Engineering Workflow
+
+```text
+
+          💡 Idea
+
+             │
+
+             ▼
+
+     📝 Research
+
+             │
+
+             ▼
+
+     🖥 Prototype
+
+             │
+
+             ▼
+
+      🤖 Develop
+
+             │
+
+             ▼
+
+      🧪 Testing
+
+             │
+
+             ▼
+
+      🚀 Deploy
+
+             │
+
+             ▼
+
+      🔄 Improve
+
+```
+
+---
+
+# 📡 Current Projects Status
+
+<div align="center">
+
+| Project | Progress |
+|---------|----------|
+| 🌍 Aetheris | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80% |
+| 🤖 Quadruped Robot | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% |
+| 🚁 Gesture Robot | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70% |
+| 🚗 Line Following Robot | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90% |
+
+</div>
+
+---
+
+# 📚 Knowledge Map
+
+```text
+
+Programming
+│
+├── Python
+├── C
+├── C++
+├── Java
+└── JavaScript
+
+↓
+
+Artificial Intelligence
+│
+├── Machine Learning
+├── TensorFlow
+├── OpenCV
+└── Deep Learning
+
+↓
+
+Embedded Systems
+│
+├── ESP32
+├── Arduino
+├── MQTT
+├── SPI
+└── I2C
+
+↓
+
+Robotics
+│
+├── Motion Control
+├── Servo Control
+├── Navigation
+└── Autonomous Systems
+
+```
+
+---
+
+# 🧩 Software Architecture
+
+```text
+
+                USER
+
+                 │
+
+                 ▼
+
+          Web Dashboard
+
+                 │
+
+        FastAPI Backend
+
+                 │
+
+       AI Prediction Engine
+
+                 │
+
+      Environmental Data
+
+                 │
+
+        ESP32 + Sensors
+
+```
+
+---
+
+# 🚀 My Coding Principles
+
+<div align="center">
+
+⚡ Keep Learning
+
+💡 Build Real Projects
+
+🔍 Solve Problems
+
+📚 Share Knowledge
+
+🤝 Collaborate
+
+🌍 Create Impact
+
+</div>
+
+---
+
+# 🎯 2026 Mission Board
+
+```text
+
+☑ Learn FastAPI
+
+☑ Learn Machine Learning
+
+☐ Master Computer Vision
+
+☐ Complete ROS
+
+☐ Publish AI Project
+
+☐ Build Autonomous Robot
+
+☐ Open Source Contributions
+
+☐ Internship
+
+☐ Research Publication
+
+```
+
+---
+
+# 📈 Productivity
+
+```text
+
+Learning
+
+████████████████████
+
+Coding
+
+██████████████████
+
+Research
+
+███████████████
+
+Projects
+
+██████████████████
+
+Reading
+
+████████████
+
+```
+
+---
+
+# 💻 Workspace
+
+```yaml
+Operating System:
+  Windows 11
+
+Editor:
+  VS Code
+
+Version Control:
+  Git
+
+Repository:
+  GitHub
+
+Hardware:
+  ESP32
+
+Languages:
+  Python
+  C++
+  Java
+
+Currently Reading:
+  Computer Vision
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:neelavanancoder@gmail.com">
+<img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=00D9FF"/>
+</a>
+
+<a href="https://github.com/Neelavanan-Y">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+</a>
+
+<a href="https://www.linkedin.com/in/neelavanan-y-635281373">
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💙 Thanks for visiting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient&customColorList=24,12,30,2"/>
+
+### ⭐ If you enjoyed my work, don't forget to star my repositories!
+
+</div>
+
+<!-- ========================================================= -->
+<!--                  END OF PART 5                            -->
+<!-- ========================================================= -->
+
+
