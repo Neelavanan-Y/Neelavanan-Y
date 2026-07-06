@@ -310,6 +310,55 @@ Autonomous line-following robot.
 ---
 
 <details>
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Neelavanan-Y&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FFA3&text_color=E6EDF3"/>
+
+<img height="180em"
+src="https://github-readme-streak-stats.herokuapp.com?user=Neelavanan-Y&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D9FF&ring=00FFA3&fire=00FFA3&currStreakLabel=00D9FF"/>
+
+</p>
+<p align="center">
+
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelavanan-Y&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3"/>
+
+</p>
+
+## 📈 Contribution Graph
+
+[![Neelavanan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neelavanan-Y&theme=github-dark&bg_color=0D1117&color=00D9FF&line=00FFA3&point=FFFFFF&area=true&hide_border=true)](https://github.com/Neelavanan-Y)
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Neelavanan-Y&theme=algolia&no-frame=true&column=7"/>
+
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Neelavanan-Y/Neelavanan-Y/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+## 📋 Profile Summary
+
+<p align="center">
+
+<img width="100%"
+
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neelavanan-Y&theme=github_dark"/>
+
+</p>
+
 
 <summary>
 
@@ -320,3 +369,35 @@ Autonomous line-following robot.
 Documenting algorithms and problem-solving practice.
 
 </details>
+
+<p align="center">
+
+<img
+
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neelavanan-Y&theme=github_dark"/>
+
+<img
+
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Neelavanan-Y&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img
+
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Neelavanan-Y&theme=github_dark"/>
+
+<img
+
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Neelavanan-Y&theme=github_dark"/>
+
+</p>
+
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Neelavanan-Y&style=for-the-badge&color=00D9FF"/>
+
+</p>
