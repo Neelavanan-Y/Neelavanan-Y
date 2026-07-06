@@ -1,575 +1,322 @@
-You are an award-winning GitHub Profile README designer and senior developer portfolio consultant.
+<div align="center">
 
-Your task is to create a COMPLETE production-quality GitHub Profile README for me.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&customColorList=24,12,30,2&text=Neelavanan%20Y&fontColor=E6EDF3&fontSize=55&animation=fadeIn&desc=AI%20•%20Robotics%20•%20Embedded%20Systems&descAlignY=68"/>
 
-IMPORTANT:
-This README should NOT look like a generic full-stack developer template.
+# 👋 Hi, I'm Neelavanan Y
 
-Instead, it should feel like the profile of an aspiring Robotics + AI + Embedded Systems Engineer.
+### Building Intelligent Systems with AI, Robotics & Embedded Engineering
 
-The style should be modern, premium, clean, futuristic, and recruiter-friendly.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=$+whoami;$+Building+Aetheris;$+Robotics+Club+Member;$+ESP32+Developer;$+Learning+Computer+Vision;$+Always+Building+🚀"/>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<p align="center">
 
-## PERSONAL INFORMATION
+<a href="mailto:neelavanancoder@gmail.com">
+<img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=00D9FF">
+</a>
 
-Name:
-Neelavanan Y
+<a href="https://github.com/Neelavanan-Y">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=00D9FF">
+</a>
 
-GitHub Username:
-Neelavanan-Y
+<a href="https://www.linkedin.com/in/neelavanan-y-635281373">
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=00D9FF">
+</a>
 
-Current Role:
-B.Tech Computer Science Engineering Student
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=00D9FF">
+</a>
 
-University:
-SASTRA Deemed University
+<a href="#">
+<img src="https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116">
+</a>
 
-Location:
-Tamil Nadu, India
+</p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-## PERSONAL BRAND
+<img src="https://komarev.com/ghpvc/?username=Neelavanan-Y&style=for-the-badge&color=00D9FF"/>
 
-Design Direction
+<img src="https://img.shields.io/github/followers/Neelavanan-Y?style=for-the-badge&color=00D9FF"/>
 
-Aetheris Cyber Lab
+<img src="https://img.shields.io/github/stars/Neelavanan-Y?style=for-the-badge&color=00D9FF"/>
 
-Theme
+</div>
 
-Artificial Intelligence
+---
 
-Robotics
+# `> whoami`
 
-Embedded Systems
+```yaml
+name: Neelavanan Y
 
-IoT
-
-Space Technology
-
-Geospatial Intelligence
-
-Autonomous Systems
-
-Do NOT use a generic software developer aesthetic.
-
-Instead create a futuristic engineering identity.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## COLOR PALETTE
-
-Background:
-#0D1117
-
-Surface:
-#161B22
-
-Primary:
-#00D9FF
-
-Secondary:
-#7C4DFF
-
-Accent:
-#00FFA3
-
-Text:
-#E6EDF3
-
-Use these exact colors consistently throughout every widget.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## HEADER
-
-Use capsule-render.
-
-NOT Wave.
-
-Use Shark.
-
-Use custom colors.
-
-Large name.
-
-Subtitle:
-
-AI • Robotics • Embedded Systems
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## TYPING SVG
-
-Use Fira Code.
-
-Create rotating lines similar to:
-
-$ whoami
-
-AI Engineer in Progress
-
-Building Aetheris
-
-Robotics Club Member
-
-Embedded Systems Enthusiast
-
-Learning Computer Vision
-
-Always Building 🚀
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## QUICK INFO BADGES
-
-Display
-
-B.Tech CSE
-
-SASTRA University
-
-Tamil Nadu
-
-India
-
-Robotics
-
-Artificial Intelligence
-
-Embedded Systems
-
-IoT
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## SOCIAL BUTTONS
-
-GitHub
-
-LinkedIn
-
-Email
-
-LeetCode
-
-Portfolio (leave placeholder if unavailable)
-
-Use for-the-badge style.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## ABOUT SECTION
-
-Create a terminal-style section.
-
-Heading:
-
-> whoami
-
-Then include YAML.
-
-Example structure:
-
-name:
-
-education:
+role:
+  B.Tech Computer Science Student
 
 university:
+  SASTRA Deemed University
+
+location:
+  Tamil Nadu, India
 
 interests:
+  - Artificial Intelligence
+  - Robotics
+  - Embedded Systems
+  - Internet of Things
+  - Geospatial Intelligence
 
 currently_building:
+  - Aetheris
+  - Quadruped Robot
 
 currently_learning:
+  - FastAPI
+  - Computer Vision
+  - Machine Learning
+  - ROS
 
 goal:
+  Build intelligent autonomous systems that bridge AI and robotics.
+```
 
-Do NOT use paragraphs.
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# `> engineering-domains`
 
-## TECH STACK
+| Domain | Current Level | Current Focus |
+|---------|--------------|---------------|
+| 🤖 Robotics | ⭐⭐⭐⭐☆ | Quadruped Robot |
+| ⚡ Embedded Systems | ⭐⭐⭐⭐☆ | ESP32 Development |
+| 🧠 Artificial Intelligence | ⭐⭐⭐☆☆ | Aetheris |
+| 🌍 IoT | ⭐⭐⭐⭐☆ | Environmental Monitoring |
+| 👁 Computer Vision | ⭐⭐☆☆☆ | Learning |
+| 🌐 Backend | ⭐⭐⭐☆☆ | FastAPI APIs |
 
-Organize by category.
+---
 
-Programming
+# `> tech-arsenal`
 
-Python
+## 💻 Languages
 
-C++
+<p>
 
-C
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js"/>
 
-Java
+</p>
 
-JavaScript
+---
 
-Frontend
+## 🌐 Web
 
-HTML
+<p>
 
-CSS
+<img src="https://skillicons.dev/icons?i=html,css"/>
 
-JavaScript
+</p>
 
-Backend
+---
 
-FastAPI
+## ⚡ Embedded
 
-SQLite
+<p>
 
-Firebase
+<img src="https://skillicons.dev/icons?i=arduino"/>
 
-AI
+</p>
 
-OpenCV
+**Currently Working With**
 
-Scikit-Learn
+- ESP32
+- ESP-IDF
+- MQTT
+- I2C
+- SPI
+- PCA9685
+- Servo Motors
 
-NumPy
+---
 
-Pandas
+## 🤖 Artificial Intelligence
 
-Embedded
+<p>
 
-ESP32
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
 
-Arduino
+</p>
 
-ESP-IDF
+Learning
 
-MQTT
+- OpenCV
+- Scikit-Learn
+- NumPy
+- Pandas
 
-I2C
+---
 
-SPI
+## 🗄 Backend
 
-Tools
+<p>
 
-Git
+<img src="https://skillicons.dev/icons?i=firebase"/>
 
-GitHub
+</p>
 
-VS Code
+- FastAPI
+- SQLite
 
-KiCad
+---
 
-Figma
+## 🛠 Tools
 
-Do NOT add technologies I never mentioned.
+<p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 
-## ENGINEERING DOMAINS
+</p>
 
-Create a markdown table.
+Also
 
-Columns
+- KiCad
+- Arduino IDE
+- PlatformIO
 
-Domain
+---
 
-Current Level
+# `> current-focus.yaml`
 
-Current Focus
-
-Rows
-
-Artificial Intelligence
-
-Embedded Systems
-
-Robotics
-
-IoT
-
-Computer Vision
-
-Backend Development
-
-Do NOT exaggerate proficiency.
-
-I am a student.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## CURRENT MISSION
-
-Create a YAML block.
-
+```yaml
 learning:
+
+  - FastAPI
+
+  - Machine Learning
+
+  - Computer Vision
+
+  - ROS
 
 building:
 
+  - Aetheris
+  - Quadruped Robot
+  - GitHub Portfolio
+
 exploring:
+
+  - Embedded AI
+  - Autonomous Navigation
+  - Geospatial Intelligence
 
 open_to:
 
-Fill using my actual projects.
+  - Robotics Collaborations
+  - AI Projects
+  - Hackathons
+```
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-## FEATURED PROJECTS
+# `> featured-projects`
 
-Use collapsible
+<details open>
+
+<summary>
+
+# 🌍 Aetheris
+
+</summary>
+
+AI-powered Geospatial Environmental Intelligence Platform.
+
+| Category | Details |
+|-----------|----------|
+| Purpose | Environmental Intelligence |
+| Backend | FastAPI |
+| Database | SQLite |
+| AI | Machine Learning |
+| Maps | Leaflet |
+| Data | IoT + Sensors |
+| Status | 🚧 In Development |
+
+### Features
+
+- Heat Index Prediction
+- AQI Monitoring
+- AI Forecasting
+- Interactive Dashboard
+- Smart Alerts
+- Explainable AI
+- Environmental Risk Analysis
+
+</details>
+
+---
 
 <details>
 
-The first project should be open.
+<summary>
 
-Projects
+# 🤖 Quadruped Robot
 
-1. Aetheris
+</summary>
 
-Description
+ESP32-powered intelligent quadruped robot.
 
-Architecture
+| Category | Details |
+|-----------|----------|
+| Controller | ESP32 |
+| Servos | 12 |
+| Driver | PCA9685 |
+| Communication | WiFi |
+| Status | 🚧 In Progress |
 
-Features
+### Features
 
-Tech Stack
+- Wireless Control
+- Stable Walking
+- Modular Electronics
+- Expandable Design
 
-Roadmap
+</details>
 
-Repository
+---
 
-2. Quadruped Robot
+<details>
 
-Description
+<summary>
 
-Electronics
+# 🚁 Gesture Controlled Robot
 
-ESP32
+</summary>
 
-Servos
+Gesture-controlled robot using embedded systems.
 
-PCB
+</details>
 
-Roadmap
+---
 
-3. Gesture Controlled Robot
+<details>
 
-4. Line Following Robot
+<summary>
 
-5. LeetCode Solutions
+# 🚗 Line Following Robot
 
-Each project should have a markdown table
+</summary>
 
-Aspect
+Autonomous line-following robot.
 
-Details
+</details>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-## ENGINEERING JOURNEY
+<details>
 
-Create a timeline
+<summary>
 
-Started Programming
+# 💻 LeetCode Journey
 
-↓
+</summary>
 
-Line Following Robot
+Documenting algorithms and problem-solving practice.
 
-↓
-
-Gesture Robot
-
-↓
-
-Joined Robotics Club
-
-↓
-
-Electronics Head
-
-↓
-
-Quadruped Robot
-
-↓
-
-Aetheris
-
-↓
-
-ISRO Bharatiya Antariksh Hackathon
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## GITHUB ANALYTICS
-
-Use
-
-GitHub Stats
-
-GitHub Streak
-
-Top Languages
-
-Activity Graph
-
-GitHub Trophy
-
-Summary Cards
-
-Every widget must use my palette.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## CONTRIBUTION SNAKE
-
-Include snake animation.
-
-Also generate the snake.yml workflow.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## ACHIEVEMENTS
-
-ONLY include achievements below.
-
-Robotics Club Member
-
-ISRO Bharatiya Antariksh Hackathon Participant
-
-IIT Madras Shaastra Chess Participant
-
-LeetCode Problem Solving
-
-Never invent achievements.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## FUTURE GOALS
-
-Timeline
-
-2026
-
-Complete Aetheris
-
-Complete Quadruped Robot
-
-Learn ROS
-
-2027
-
-Research Projects
-
-National Hackathons
-
-Open Source Contributions
-
-2028
-
-Robotics Internship
-
-Embedded AI Products
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## CODING PROFILES
-
-GitHub
-
-LeetCode
-
-LinkedIn
-
-Portfolio
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## FOOTER
-
-Use capsule-render.
-
-Dark theme.
-
-Matching colors.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## IMPORTANT RULES
-
-Do NOT invent work experience.
-
-Do NOT invent certifications.
-
-Do NOT invent internships.
-
-Do NOT invent awards.
-
-Do NOT claim I know technologies I haven't used.
-
-Do NOT make me look like a senior engineer.
-
-Instead, make me look like an ambitious engineering student building real projects.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## OUTPUT REQUIREMENTS
-
-Generate the following files separately.
-
-1.
-README.md
-
-Production quality.
-
-Well commented.
-
-Ready to paste into GitHub.
-
-2.
-
-.github/workflows/snake.yml
-
-Complete GitHub Action.
-
-3.
-
-assets/banner.svg
-
-Custom SVG banner.
-
-4.
-
-assets/avatar.svg
-
-Minimal AI/Robotics avatar.
-
-5.
-
-docs/SETUP.md
-
-Complete setup instructions.
-
-6.
-
-List every external service used.
-
-7.
-
-List every badge URL.
-
-8.
-
-List every widget URL.
-
-9.
-
-Explain where I need to replace placeholders.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-The README should look better than 99% of GitHub profiles while remaining truthful, clean, and professional.
-
-The design should communicate:
-
-"I build intelligent systems combining AI, Robotics, and Embedded Engineering."
-
-Output only valid files.
-Do not include explanations.
+</details>
