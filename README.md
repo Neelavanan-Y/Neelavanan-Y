@@ -1578,4 +1578,196 @@ Currently Reading:
 <!--                  END OF PART 5                            -->
 <!-- ========================================================= -->
 
+<!-- ========================================================= -->
+<!--                     PART 6                                -->
+<!-- ========================================================= -->
 
+# ⚙️ Tech Radar
+
+<div align="center">
+
+| 🤖 AI | ⚡ Embedded | 🌐 Backend | 🦿 Robotics |
+|:-----:|:-----------:|:----------:|:-----------:|
+| TensorFlow | ESP32 | FastAPI | Quadruped Robot |
+| OpenCV | ESP-IDF | SQLite | ROS |
+| Scikit-Learn | MQTT | Firebase | Motion Planning |
+| NumPy | I2C | REST APIs | Autonomous Navigation |
+
+</div>
+
+---
+
+# 🚀 Project Roadmap
+
+```text
+
+2026
+│
+├── 🌍 Aetheris
+│      ├── Heat Index Prediction
+│      ├── AQI Forecasting
+│      ├── IoT Integration
+│      └── AI Dashboard
+│
+├── 🤖 Quadruped Robot
+│      ├── Walking Algorithm
+│      ├── WiFi Control
+│      ├── Servo Optimization
+│      └── Autonomous Navigation
+│
+├── 👁 Computer Vision
+│      ├── OpenCV
+│      ├── Object Detection
+│      └── YOLO
+│
+└── 🦾 ROS
+       ├── Navigation
+       ├── SLAM
+       └── Path Planning
+
+```
+
+---
+
+# 💻 Workspace
+
+<div align="center">
+
+| Component | Setup |
+|-----------|-------|
+| 💻 Laptop | Windows 11 |
+| 🖥 Editor | VS Code |
+| 🐍 Language | Python |
+| ⚙ Embedded | ESP32 |
+| 🌐 Backend | FastAPI |
+| 🔧 Version Control | Git |
+| ☁ Repository | GitHub |
+
+</div>
+
+---
+
+# 📚 Books & Topics
+
+```text
+
+Artificial Intelligence
+
+██████████████████
+
+Machine Learning
+
+█████████████████
+
+Computer Vision
+
+██████████████
+
+Embedded Systems
+
+██████████████████
+
+Robotics
+
+████████████████
+
+ROS
+
+█████████
+
+```
+
+---
+
+# 🧠 Skills Progress
+
+<div align="center">
+
+| Skill | Progress |
+|-------|----------|
+| Python | ████████████████ 90% |
+| C++ | ██████████████ 80% |
+| AI | ████████████ 70% |
+| Computer Vision | ████████ 45% |
+| Robotics | ███████████ 65% |
+| FastAPI | █████████ 60% |
+| ESP32 | ███████████████ 85% |
+
+</div>
+
+---
+
+# 🌍 Open Source Goals
+
+- ⭐ Publish AI projects
+- 🤖 Robotics libraries
+- 🌐 FastAPI utilities
+- 📚 Educational repositories
+- 🔥 Contribute to Python projects
+
+---
+
+# 📅 2026 Checklist
+
+- [x] Learn Python
+- [x] Learn ESP32
+- [x] Build Robotics Projects
+- [x] Start Aetheris
+- [ ] Master Machine Learning
+- [ ] Learn Computer Vision
+- [ ] Learn ROS
+- [ ] Publish Open Source Packages
+- [ ] AI Internship
+- [ ] Research Paper
+
+---
+
+# 📈 Coding Activity
+
+```text
+
+Python            ███████████████████
+
+C++               ███████████████
+
+Java              ██████████
+
+JavaScript        ███████
+
+Machine Learning  ███████████
+
+Embedded          ███████████████
+
+```
+
+---
+
+# 🤝 Let's Build Together
+
+<div align="center">
+
+🚀 AI Projects
+
+🤖 Robotics
+
+⚡ Embedded Systems
+
+🌍 Open Source
+
+💡 Innovation
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+*"Turning ideas into intelligent machines."*
+
+</div>
+
+<!-- ========================================================= -->
+<!--                  END OF PART 6                            -->
+<!-- ========================================================= -->
